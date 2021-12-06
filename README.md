@@ -1,6 +1,7 @@
 ### About the Project.
 
-##### Welcome to my Capstone Project for the BrainStation Data Science Bootcamp I completed in December 2021.  The goal of this project was to see if it is possible to use weather data to predict daily lift openings at WhistlerBlackcomb throughout the ski seasons.  The initial project planned on prediciting all lifts, but has been narrowed down to focus on the Peak chair on Whistler only.
+Welcome to my Capstone Project for the BrainStation Data Science Bootcamp I completed in December 2021.  The goal of this project was to see if it is possible to use weather data to predict daily lift openings at WhistlerBlackcomb throughout the ski seasons.  The initial project planned on prediciting all lifts, but has been narrowed down to focus on the Peak chair on Whistler only.
+
 ---
 ### Getting Started
 
@@ -16,6 +17,7 @@ Notebook 03 only has two plots using plotly express.  They are not critical to u
 Alternatively, if you are already running anaconda, you can use the liftprediction-env.txt file in the main repository to build the required environment using `conda env create --file liftprediction-env.txt`.
 
 All of the cleaned data is provided in the Data folder.  Be sure to download this if you want to run any of the code in notebooks 05 or 06.  This is where all the interesting analysis and modelling occured.
+
 ---
 ### Acknowledgements
 
